@@ -79,5 +79,6 @@ License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 
 ## Contact Me
-* [`WA`](https://wa.me/6288292024190)
-
+* [`WA`](https://wa.me/6282234343854)
+* [`Tiktok`](tiktok.com/@ajipp.editzz)
+* [`Instagram`] ga ada
