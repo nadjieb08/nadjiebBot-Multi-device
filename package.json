@@ -1,5 +1,5 @@
 {
-  "name": "hisoka-morou",
+  "name": "bot nadjieb",
   "version": "1.2.3",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -57,10 +57,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DikaArdnt/Hisoka-Morou.git"
+    "url": "git+https://github.com/nadjieb08/nadjiebBot-Multi-device.git"
   },
   "bugs": {
-    "url": "https://github.com/DikaArdnt/Hisoka-Morou/issues"
+    "url": "https://github.com/nadjieb08/nadjiebBot-Multi-device/issues"
   },
-  "homepage": "https://github.com/DikaArdnt/Hisoka-Morou#readme"
+  "homepage": "https://github.com/nadjieb08/nadjiebBot-Multi-device#readme"
 }
