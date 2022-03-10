@@ -7,7 +7,7 @@ This Script is for everyone, not for Sale
 <p align="center">
 	<img src="https://telegra.ph/file/09cc0981ccf07754d0af6.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Nadjieb Ahmad</h1>
+<h1 align="center">nadjieb</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
@@ -20,7 +20,7 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 ```bash
 git clone https://github.com/nadjieb08/nadjiebBot-Multi-device
-cd Nadjieb[MD]
+cd nadjieb[MD]
 npm install
 ```
 
@@ -33,7 +33,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 git clone https://github.com/nadjieb08/nadjiebBot-Multi-device
-cd Nadjieb[MD]
+cd nadjieb[MD]
 npm install
 ```
 
